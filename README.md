@@ -1,16 +1,22 @@
-### Hi there 👋
+## Olá, eu sou o Tischer! 👋
 
-<!--
-**guitischer/guitischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
 
-Here are some ideas to get you started:
+#### 🧑🏻‍💻 Estudando para ser um Full-Stack Developer 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Trabalho atualmente no Instituto SENAI de Inovação em Soluções Integradas em Metalmecânica (ISI SIM)
+
+🧠 Estou aprendendo:
+- React
+- Vue
+- MongoDB
+- Sass
+
+### 🛠 Habilidades
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+</p>
